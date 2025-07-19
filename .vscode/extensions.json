@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "josefbiehler.cypress-fixture-intellisense",
+        "mikehuang.vscode-cypress-extension-pack",
+        "shevtsov.vscode-cy-helper"
+    ]
+}
